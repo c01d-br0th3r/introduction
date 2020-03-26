@@ -1,0 +1,15 @@
+.bar {
+  width: 70%;
+  height: 6px;
+  background-color: #f2f2f2;
+}
+
+.xmark {
+  width: 100px;
+  height: 100px;
+  font-size: 60px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
